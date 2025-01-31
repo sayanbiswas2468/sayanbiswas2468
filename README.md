@@ -1,3 +1,7 @@
+<h1 align="center">𝓝𝓪𝓶𝓪𝓼𝓽𝓮, 𝙸'𝚖 Sayan</h1>
+<h3 align="center">
+ As a dedicated MERN Stack Developer with a unique combination of expertise in Machine Learning, I’m passionate about transforming innovative ideas into tangible, impactful solutions. My focus on the MERN stack enables me to craft seamless, full-stack applications, while my knowledge in Machine Learning empowers me to create smarter, more intuitive user experiences. Let’s join forces to innovate and bring meaningful projects to life!
+</h3>
 <div align="center"> 
 <h2 align="center">Coding Info<h2>
 <p align="center">
